@@ -1,6 +1,6 @@
 <h1> 🙏Namaste, I’m Aditya Chaurasia</h1>
 <div>
- <img align="left" width="300" height="220" src="https://c.tenor.com/uOImBN2OzjEAAAAi/namaste-yoga.gif">
+ <img align="left" width="320" height="220" src="https://c.tenor.com/uOImBN2OzjEAAAAi/namaste-yoga.gif">
 <h3>
   ·📚Engineering Student, from INDIA
   <br></br>
