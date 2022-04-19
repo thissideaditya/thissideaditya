@@ -9,7 +9,7 @@
   
   ·💻 I’m currently working in Web Development
   
-  ·✍️ Currently Learning DSA in JAVA
+  ·✍️ Currently Learning Data Structures and Algorithms
   
   ·📫 Drop me an Email -> adityac486@gmail.com
 
