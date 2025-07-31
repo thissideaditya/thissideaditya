@@ -1,27 +1,77 @@
-<h1> 🙏Namaste, I’m Aditya Chaurasia</h1>
-<div>
-<div align="center">
-<a href="https://twitter.com/atultrp_">
-  <img  alt="Aditya Chaursia | Twitter" width="40px" hspace="5px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />
-</a>
-<a href="https://www.linkedin.com/in/thissideaditya/">
-  <img  alt="Aditya Chaursia's LinkedIN" width="40px" hspace="5px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
-</a>
-<a href="https://www.instagram.com/thissideaditya/">
-<img alt="Aditya Chaursia's Instagram" width="40px" hspace="5px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"/></a>
+<h1 align="center">Hi 👋, I'm Aditya Chaursia</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
 
-<a href="mailto:adityac486@gmail.com">
-  <img alt="Aditya Chaursia's Email" width="40px" hspace="5px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
-</a>
-</div>
-<h3>
-### I'm a passionate self-taught ![Web Developer](https://img.shields.io/badge/Web-%20Developer-FF6C37?style=for-the-badge&logo=supabase&logoColor=white) 🚀 from New Delhi, India 🇮🇳️.
-<br></br>
-  
-  ·🤩 Interested in Technology and Software Development
-  
-  ·💻 I’m currently working in Web Development
-  
-  ·✍️ Currently Learning Data Structures and Algorithms
-  </h3>
-  </div>
+<p align="center">
+  <a href="mailto:adityac486@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/thissideaditya/" target="_blank">🔗 LinkedIn</a> |
+  <a href="https://leetcode.com/u/thissideaditya/" target="_blank">💻 LeetCode</a> |
+  <a href="https://devaditya.vercel.app/" target="_blank">🌐 Portfolio</a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 💼 Software Engineer at **Wipro Limited**
+- 🌱 Passionate about building scalable web applications with **Java, Spring Boot, React.js, and Node.js**
+- 🛠️ Backend and Frontend expertise: REST APIs, Microservices, React.js, Redux Toolkit, CI/CD pipelines, and performance tuning
+- 🧠 Strong foundation in **Java, JavaScript, SQL, TypeScript, and Kotlin**
+- 🏆 Problem-solving enthusiast with a growing profile on **LeetCode**
+
+---
+
+### 💼 Experience
+
+**🔹 Software Engineer - Wipro (Mar 2025 – Present)**  
+- Developed RESTful microservices supporting 9M+ users on a UK-based insurance platform  
+- Built scalable backend modules and optimized API latency by 30%  
+- Worked on frontend validations, WCAG accessibility, and performance debugging using React.js  
+- Created test suites using Cucumber, Selenium & TestNG, reducing regression efforts by 40%
+
+**🔹 Developer Intern - GSTIndia.biz (Jul 2024 – Feb 2025)**  
+- Rebuilt GST filing module frontend and backend for 2.3K+ SMEs  
+- Engineered tax calculators, dashboards, and secure API integrations  
+- Implemented retry mechanisms, role-based access, optimized DB queries  
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+`Java` `JavaScript (ES6+)` `TypeScript` `Kotlin` `SQL` `HTML` `CSS`
+
+**Frontend:**  
+`React.js` `Next.js` `Redux Toolkit` `Tailwind CSS` `Chakra UI` `Jetpack Compose`
+
+**Backend:**  
+`Spring Boot` `Node.js` `REST APIs` `Microservices` `SQL Server` `PostgreSQL`
+
+**Testing & Automation:**  
+`Jest` `React Testing Library` `Selenium` `Cucumber (BDD)` `JUnit` `TestNG`
+
+**DevOps & Tools:**  
+`Git` `GitHub` `Jenkins` `Postman` `Swagger` `Splunk` `Chrome DevTools` `Figma`
+
+---
+
+### 🚀 Projects
+
+**🔹 Portfolio Website**  
+- Built using `Next.js` and `Tailwind CSS`  
+- Dynamic GitHub stats, resume download, animated transitions  
+- Achieved Lighthouse scores of 95+ and deployed with Vercel
+
+**🔹 AlphaDesk (Admin Dashboard)**  
+- Java + Spring Boot backend with JWT Auth, RBAC, and optimized SQL  
+- REST APIs powering a React frontend, improved performance by 40%
+
+---
+
+### 📫 Let's Connect
+I'm always open to discussing interesting tech problems, collaboration opportunities, or just networking. Feel free to reach out!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thissideaditya&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
