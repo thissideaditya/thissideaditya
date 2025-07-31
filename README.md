@@ -28,7 +28,7 @@
 - Worked on frontend validations, WCAG accessibility, and performance debugging using React.js  
 - Created test suites using Cucumber, Selenium & TestNG, reducing regression efforts by 40%
 
-**🔹 Developer Intern - GSTIndia.biz (Jul 2024 – Feb 2025)**  
+**🔹 Backend Developer - GSTIndia.biz (Jul 2024 – Feb 2025)**  
 - Rebuilt GST filing module frontend and backend for 2.3K+ SMEs  
 - Engineered tax calculators, dashboards, and secure API integrations  
 - Implemented retry mechanisms, role-based access, optimized DB queries  
